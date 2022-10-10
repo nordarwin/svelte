@@ -13,6 +13,7 @@
     </a>
   </div>
   <h1>Vite + Svelte</h1>
+  <h2>Darwin Gomez</h2>
 
   <div class="card">
     <Counter />
